@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4179629f-a62a-45cd-a204-6316ddf948b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/JavaClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/SyntaxBatch14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW4Dupl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW4reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/MethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/MethodsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/MethodsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/MethodsDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/StepDefClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/StringBufferANDStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class14/StringRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class15/HondaBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class15/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW2teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/HW3teachers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/WhatIsOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class16/task1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/EmpTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/HW1Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/HW1TeacherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/HW2Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class17/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/Animall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class18/ThisKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW1C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW3Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW4userClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class19/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/HW2Programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class20/MethodOverloadingD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/BrowserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/HW2CreditCardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/Animaaal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/StudentTesterTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class22/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class23/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/class23/DataBaseTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap3/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap3/Shelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap4This/Peru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap4This/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap4This/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap5/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap5/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/recap5/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/InterviewRepls/Repl221EvenLargesrLengthStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/InterviewRepls/Repl222MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/InterviewRepls/Repl224RemoveDupl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/InterviewRepls/Repl225ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/PrintMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/ShoppingStoreThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/employeeThisKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/reaples136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/reaples137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/reaples138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/reaples142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls116MethodEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls117sumEvenToX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls118PrintWithSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls119Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls124StaticVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/repls128MixString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/src/repls/superKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClass/syntax.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/DependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/EnableDisable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/TestNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/TestNJExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02_Assert/ExampleAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02_Assert/HardAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02_Assert/SoftAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03_Listener_Annotation/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03_Listener_Annotation/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class03_Listener_Annotation/dataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/ImplementationOfListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class04/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review01/AnnotationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review01/DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review01/DataProviderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review01/EnableDisableBeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/review01/PriorityExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Selenium1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I2xpbU4hFc66CTX8njTaoaIkjU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anna/IdeaProjects&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.DataProviderDemo">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MavenProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MavenProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="review01" />
+      <option name="MAIN_CLASS_NAME" value="review01.AnnotationExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="review01" />
+      <option name="MAIN_CLASS_NAME" value="review01.DataProviderDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnableDisableBeforeAfter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="review01" />
+      <option name="MAIN_CLASS_NAME" value="review01.EnableDisableBeforeAfter" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="review01" />
+      <option name="MAIN_CLASS_NAME" value="review01.PriorityExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02_Assert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class02_Assert" />
+      <option name="MAIN_CLASS_NAME" value="class02_Assert.SoftAssertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataProviderDemo" />
+        <item itemvalue="TestNG.SoftAssertions" />
+        <item itemvalue="TestNG.EnableDisableBeforeAfter" />
+        <item itemvalue="TestNG.PriorityExample" />
+        <item itemvalue="TestNG.AnnotationExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4179629f-a62a-45cd-a204-6316ddf948b2" name="Changes" comment="" />
+      <created>1669393662506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669393662506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
